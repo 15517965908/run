@@ -1,0 +1,17 @@
+line_1,1_str,计十算机软件采购合同
+line_2,1_str,签署页
+line_3,2_str,买方:卖方:
+line_4,2_str,(由章)(定章)
+line_5,2_str,法定代本人(份方人)法定代表人(负货人)或
+line_6,2_str,投权代在(交产)授权代表(签字):
+line_7,2_str,签11日期3签订日期3
+line_8,2_str,地址:地址:
+line_9,2_str,邮编3邮编:
+line_10,2_str,联系人:联系人:
+line_11,2_str,电话:电话:
+line_12,2_str,传真:传真:
+line_13,2_str,巳1日111Email3
+line_14,2_str,开户银行:开户银行:
+line_15,2_str,账号3帐户:
+line_16,2_str,税号3税号:
+line_17,1_str,8

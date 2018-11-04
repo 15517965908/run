@@ -1,0 +1,130 @@
+<Document>
+  <line id="1" right="2825">
+    <str id="1">计算机软件采购合同</str>
+  </line>
+  <line id="2" right="2479">
+    <str id="2">金,有效期自提交买方之日起至合同软件保期届满后30日为止。</str>
+  </line>
+  <line id="3" right="2826">
+    <str id="3">9.2卖方提供的履约保证金应为由买方可接受的中国境内银行参考《履约保</str>
+  </line>
+  <line id="4" right="2825">
+    <str id="4">函格式》(附件三)所附格式出具的银行保函,亦可为现金、票、支票,与此</str>
+  </line>
+  <line id="5" right="1350">
+    <str id="5">有关的费用由卖方负担。</str>
+  </line>
+  <line id="6" right="2823">
+    <str id="6">9.3履约保证金是卖方履行合同义务的担保,如卖方未能履行本合同项下的</str>
+  </line>
+  <line id="7" right="2812">
+    <str id="7">任何义务,</str>
+    <str id="8">买方有权根据卖方所需承担的违约赔偿责任扣除相应的履约保证金。</str>
+  </line>
+  <line id="8" right="1359">
+    <str id="9">第10条</str>
+    <str id="10">知识产权</str>
+  </line>
+  <line id="9" right="2820">
+    <str id="11">10.1卖方应保证拥有合同软件及其所包含的软件(含第三方软件)的永久</str>
+  </line>
+  <line id="10" right="2749">
+    <str id="12">使用权和销售权,确保方及用户能够在中国境内合法正地运行合同软件。</str>
+  </line>
+  <line id="11" right="2819">
+    <str id="13">10.2卖方所提供的合同软件不应存在任何权利,卖方应保证买方免于</str>
+  </line>
+  <line id="12" right="2821">
+    <str id="14">通受因第三方提起侵权索赔而产生的任何损失。如果任何第三方向买方提起侵权</str>
+  </line>
+  <line id="13" right="2379">
+    <str id="15">索赔,卖方应负责与之进行交涉,并承担由此引起的一切责任。</str>
+  </line>
+  <line id="14" right="2816">
+    <str id="16">10.3因卖方提供的合同软件侵犯第三方知识产权,号致买方无法使用合同</str>
+  </line>
+  <line id="15" right="2818">
+    <str id="17">软件的,卖方应按买方要求退还已收取的所有的合同价款,并赔偿买方因此发生</str>
+  </line>
+  <line id="16" right="1047">
+    <str id="18">的全部损失。</str>
+  </line>
+  <line id="17" right="1235">
+    <str id="19">第11条</str>
+    <str id="20">保密</str>
+  </line>
+  <line id="18" right="2816">
+    <str id="21">11.1卖方及其工作人员应对在履行本合同过程中获的买方的有关数据机</str>
+  </line>
+  <line id="19" right="2786">
+    <str id="22">密、文档资料、商密及买方要求保密的其他信息(以下简称"保密作息")</str>
+  </line>
+  <line id="20" right="2678">
+    <str id="23">业格保密,并采取相应的保密措施。卖方应承担的保密义务包括但不限于:</str>
+  </line>
+  <line id="21" right="2688">
+    <str id="24">11.1.1未经买方书面同意,不得将上述保密信息技露给任何第三人;</str>
+  </line>
+  <line id="22" right="2381">
+    <str id="25">11.12不得将上述保密信息用于本合同以外的其他日的3</str>
+  </line>
+  <line id="23" right="2818">
+    <str id="26">11.1.3在本合同终止或解除后或买方要求时,及时将上述保密信息迟</str>
+  </line>
+  <line id="24" right="1529">
+    <str id="27">买方或按买方要求作适当处理。</str>
+  </line>
+  <line id="25" right="2819">
+    <str id="28">12上述保密义务的期限至保密信息正式向社会公开之日或买方书面解</str>
+  </line>
+  <line id="26" right="1648">
+    <str id="29">除卖方本合同项下保密义务之日止。</str>
+  </line>
+  <line id="27" right="2818">
+    <str id="30">11.3卖方盖反保密义务的,应承担一切法律责任并赔偿买方因此遭受的全</str>
+  </line>
+  <line id="28" right="919">
+    <str id="31">部损失。</str>
+  </line>
+  <line id="29" right="1353">
+    <str id="32">第12条</str>
+    <str id="33">违约责任</str>
+  </line>
+  <line id="30" right="2818">
+    <str id="34">12.1卖方不履行本合同义务或者履行义务不行合约定的,</str>
+    <str id="35">买方有权要求卖</str>
+  </line>
+  <line id="31" right="2227">
+    <str id="36">方承担继续履行、赔偿损失和/或支付违约金等违约责任。</str>
+  </line>
+  <line id="32" right="2291">
+    <str id="37" />
+  </line>
+  <line id="33" right="2823">
+    <str id="38">12.1.1如由于卖方原因,未能在合同约定时间内交付合同软件或使合同软</str>
+  </line>
+  <line id="34" right="2782">
+    <str id="39">件通过验收的,每延迟1周,卖方应向买方支付相当于合同价格1%的违约金,</str>
+  </line>
+  <line id="35" right="2819">
+    <str id="40">不起1周的按1周计算。上述违约金的支付不解除卖方继续交付合同软件的责任。</str>
+  </line>
+  <line id="36" right="2823">
+    <str id="41">逾期超过30天时,买方有权解除合同,此等解除并不影响买方要卖方支付上</str>
+  </line>
+  <line id="37" right="1157">
+    <str id="42">述违约金的权利。</str>
+  </line>
+  <line id="38" right="2826">
+    <str id="43">12.1.2卖方未能在约定时间内到达现场提供服务、未在约定时间内作出反</str>
+  </line>
+  <line id="39" right="2823">
+    <str id="44">或解决问题,则每推迟24小时卖方应向买方支付相当于合同价格126的违约</str>
+  </line>
+  <line id="40" right="1551">
+    <str id="45">金,不足24小时时按比例计算。</str>
+  </line>
+  <line id="41" right="1729">
+    <str id="46">5</str>
+  </line>
+</Document>

@@ -1,0 +1,10 @@
+line_1,1_str,计算机软件采购合同
+line_2,1_str,附件二:分项价格表
+line_3,2_str,111111
+line_4,15_str,1产品名称1版本数量11单价(元)小计
+line_5,3_str,11
+line_6,3_str,11
+line_7,2_str,1
+line_8,1_str,日日
+line_9,5_str,总计(元)1
+line_10,1_str,10

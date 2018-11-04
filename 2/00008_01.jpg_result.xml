@@ -1,0 +1,143 @@
+<Document>
+  <line id="1" right="2223">
+    <str id="1">用电设备改造工程合同</str>
+  </line>
+  <line id="2" right="818">
+    <str id="2">甲方:</str>
+  </line>
+  <line id="3" right="926">
+    <str id="3">电话:</str>
+  </line>
+  <line id="4" right="927">
+    <str id="4">乙方:</str>
+  </line>
+  <line id="5" right="129">
+    <str id="5">六</str>
+  </line>
+  <line id="6" right="927">
+    <str id="6">电话:</str>
+  </line>
+  <line id="7" right="2806">
+    <str id="7">根据节电改造工程试装测试和验收的情况,</str>
+    <str id="8">甲、乙双方对此项节电改造承到重,现</str>
+  </line>
+  <line id="8" right="2634">
+    <str id="9">正式签订《节电改造工程合同书》对位于</str>
+    <str id="10">的全部用电设备进行全面的节电改造。</str>
+  </line>
+  <line id="9" right="2152">
+    <str id="11" />
+    <str id="12">、用电设备的种类、数量及相应的节电设备种类和数量</str>
+  </line>
+  <line id="10" right="2542">
+    <str id="13">用电设备名称</str>
+    <str id="14">数量</str>
+    <str id="15">所需节电设备型号数量</str>
+    <str id="16">单价</str>
+    <str id="17">总值</str>
+  </line>
+  <line id="11" right="2597">
+    <str id="18">失手电相</str>
+    <str id="19">12</str>
+    <str id="20">欧话期BPM103</str>
+    <str id="21">1</str>
+    <str id="22">300000</str>
+    <str id="23">312000</str>
+  </line>
+  <line id="12" right="2543">
+    <str id="24">空调</str>
+    <str id="25">11</str>
+    <str id="26">格力义义P-20M</str>
+    <str id="27">3</str>
+    <str id="28">8123</str>
+    <str id="29">9900</str>
+  </line>
+  <line id="13" right="2596">
+    <str id="30">照明</str>
+    <str id="31">300</str>
+    <str id="32">公司同002</str>
+    <str id="33">9</str>
+    <str id="34">8800</str>
+    <str id="35">123000</str>
+  </line>
+  <line id="14" right="802">
+    <str id="36">合计</str>
+  </line>
+  <line id="15" right="2800">
+    <str id="37">二、经双方协商,乙方采取一次买时节电设备方式。具体的付款方式如下:于合同书</str>
+    <str id="38" />
+  </line>
+  <line id="16" right="2786">
+    <str id="39">签订之日起,</str>
+    <str id="40">三日内支付节电设备总货款的30%给甲方,甲方收款后,立目组织节电设备</str>
+  </line>
+  <line id="17" right="2829">
+    <str id="41">的生产。在10</str>
+    <str id="42">日内,保证将设备运到安装地点,并且组织工用技术人员开始安装。完成</str>
+  </line>
+  <line id="18" right="2816">
+    <str id="43">整个节电改造工和总工程量的50%时,乙方再支付总工程款的30%给甲方,会款40%整个</str>
+  </line>
+  <line id="19" right="2011">
+    <str id="44">节电改造工程全部完成并验收合格以后一次性付给甲方。</str>
+  </line>
+  <line id="20" right="2578">
+    <str id="45">三、验收的标准和方法按照《试装协议书》第</str>
+    <str id="46" />
+    <str id="47">九款中明确的标准和方法。</str>
+  </line>
+  <line id="21" right="1343">
+    <str id="48">四、双方的权利和义务</str>
+  </line>
+  <line id="22" right="1008">
+    <str id="49">1</str>
+    <str id="50">甲方:</str>
+  </line>
+  <line id="23" right="2767">
+    <str id="51">(1)生产的节电设备必须符合国家产品质量要求及技术指标,对合同中的全部设备,</str>
+  </line>
+  <line id="24" right="2806">
+    <str id="52">两年内实行免费保修、保养。并免费为乙方提供完节电设备使用及维护的业指号及</str>
+  </line>
+  <line id="25" right="2806">
+    <str id="53">询,免费提供相关功争及软件的升级服务;两年后如设备出现故障,仍然负责维修,但材</str>
+  </line>
+  <line id="26" right="1146">
+    <str id="54">料费应由乙方负责。</str>
+  </line>
+  <line id="27" right="2692">
+    <str id="55">(2设备在运行中出现故障,甲方接到乙方通知后24时内派人盘到现场处理。</str>
+  </line>
+  <line id="28" right="2807">
+    <str id="56">(8节电设备安装运行以后,不得对乙方的用电设备造成任何的损害,否则,承担一</str>
+  </line>
+  <line id="29" right="981">
+    <str id="57">切经济损失。</str>
+  </line>
+  <line id="30" right="1002">
+    <str id="58">2.乙方:</str>
+  </line>
+  <line id="31" right="2780">
+    <str id="59">(1指派专人协助节电改造工程的工作,为甲方工程技术人员提供便利的工作环境。</str>
+  </line>
+  <line id="32" right="2813">
+    <str id="60">2不得擅自增加用电设备,致使节电设备的负超过一定的容量,造成不必要的损</str>
+  </line>
+  <line id="33" right="2068">
+    <str id="61">失。确需增加用电设备,通知甲方,相增加节电设备。</str>
+  </line>
+  <line id="34" right="2179">
+    <str id="62">(8有义务维护好所安装的节电设备,不得有人为的坏。</str>
+  </line>
+  <line id="35" right="2180">
+    <str id="63">五、本合同未尽事宜,双方本着平等友好的原则协商解决。</str>
+  </line>
+  <line id="36" right="2482">
+    <str id="64">六、本合同一式</str>
+    <str id="65">肆</str>
+    <str id="66">份,甲、乙双方各执贰份,具有同等效力。</str>
+  </line>
+  <line id="37" right="1572">
+    <str id="67" />
+  </line>
+</Document>

@@ -1,0 +1,39 @@
+<Document>
+  <line id="1" right="2718">
+    <str id="1">计十算机软件采购合同</str>
+  </line>
+  <line id="2" right="2386">
+    <str id="2">计</str>
+    <str id="3">算</str>
+    <str id="4">机</str>
+    <str id="5">软</str>
+    <str id="6">件</str>
+    <str id="7">采</str>
+    <str id="8">购</str>
+    <str id="9">合</str>
+    <str id="10">同</str>
+  </line>
+  <line id="3" right="1454">
+    <str id="11">合同编号(买方):</str>
+  </line>
+  <line id="4" right="1456">
+    <str id="12">合同编号(卖方):</str>
+  </line>
+  <line id="5" right="1166">
+    <str id="13">买</str>
+    <str id="14">方:</str>
+  </line>
+  <line id="6" right="1167">
+    <str id="15">卖</str>
+    <str id="16">方:</str>
+  </line>
+  <line id="7" right="1190">
+    <str id="17">签订日期:</str>
+  </line>
+  <line id="8" right="1169">
+    <str id="18">签订地点:</str>
+  </line>
+  <line id="9" right="2091">
+    <str id="19">中处的订日期内署页中的导订日期保持一致。</str>
+  </line>
+</Document>

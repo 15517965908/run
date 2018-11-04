@@ -1,0 +1,56 @@
+<Document>
+  <line id="1">
+    <str id="1">计算机软体采购合同</str>
+  </line>
+  <line id="2">
+    <str id="2">同</str>
+  </line>
+  <line id="3">
+    <str id="3">合</str>
+  </line>
+  <line id="4">
+    <str id="4">购</str>
+  </line>
+  <line id="5">
+    <str id="5">采</str>
+  </line>
+  <line id="6">
+    <str id="6">件</str>
+  </line>
+  <line id="7">
+    <str id="7">规软</str>
+  </line>
+  <line id="8">
+    <str id="8">算</str>
+  </line>
+  <line id="9">
+    <str id="9">计</str>
+  </line>
+  <line id="10">
+    <str id="10">合同编号(买方):</str>
+  </line>
+  <line id="11">
+    <str id="11">合同编号(卖方):</str>
+  </line>
+  <line id="12">
+    <str id="12">方</str>
+  </line>
+  <line id="13">
+    <str id="13">买</str>
+  </line>
+  <line id="14">
+    <str id="14">方</str>
+  </line>
+  <line id="15">
+    <str id="15">卖</str>
+  </line>
+  <line id="16">
+    <str id="16">签订日期</str>
+  </line>
+  <line id="17">
+    <str id="17">签订地点:</str>
+  </line>
+  <line id="18">
+    <str id="18">此处的签订日期应签页中的最设签订日期保持一致。</str>
+  </line>
+</Document>

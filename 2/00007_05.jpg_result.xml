@@ -1,0 +1,151 @@
+<Document>
+  <line id="1" right="2793">
+    <str id="1">计算机软件采购合同</str>
+  </line>
+  <line id="2" right="1240">
+    <str id="2">第2条</str>
+    <str id="3">合同标的</str>
+  </line>
+  <line id="3" right="2145">
+    <str id="4">2.1买方向卖方采购的合同软件的名称、</str>
+    <str id="5">数量如下:</str>
+  </line>
+  <line id="4" right="2057">
+    <str id="6">2.1.1合同软件名称:</str>
+    <str id="7">4</str>
+  </line>
+  <line id="5" right="2033">
+    <str id="8" />
+  </line>
+  <line id="6" right="2057">
+    <str id="9">2.1.2合同软件数量:</str>
+    <str id="10" />
+  </line>
+  <line id="7" right="2035">
+    <str id="11" />
+  </line>
+  <line id="8" right="2119">
+    <str id="12">2.1.3软件数量的计算方式:</str>
+    <str id="13" />
+  </line>
+  <line id="9" right="2097">
+    <str id="14" />
+  </line>
+  <line id="10" right="2794">
+    <str id="15">2.2卖方提供的合同软件的技术规范、技术条件、性能和卖方对合同软件的</str>
+  </line>
+  <line id="11" right="2791">
+    <str id="16">技术保证,详见《技术规范》(附件</str>
+    <str id="17">)。卖方应保证所提供的合同软件是完整的、</str>
+  </line>
+  <line id="12" right="2791">
+    <str id="18">全新的、技术上先和成的,并在性能、质量和设计方面满合同约定的安全、</str>
+  </line>
+  <line id="13" right="1586">
+    <str id="19">可靠和高效运行与维护的全部要求。</str>
+  </line>
+  <line id="14" right="2797">
+    <str id="20">2.3卖方按照合同的相关约定,向买方提供技术文件。卖方应保证其提供</str>
+  </line>
+  <line id="15" right="2753">
+    <str id="21">的技术文件是完整的、清所易读的、准确无误的,能够满本合同软件的检验、</str>
+  </line>
+  <line id="16" right="1900">
+    <str id="22">安装、</str>
+    <str id="23">调试、测、验收、运行和维护的需要。</str>
+  </line>
+  <line id="17" right="2796">
+    <str id="24">2.4卖方承诺所提供的合同软件不含有任何安全限,并在软件使用期内承</str>
+  </line>
+  <line id="18" right="2795">
+    <str id="25">担全部责任(包括但不限于消除安全患、退款、赔偿损失等)。发生任何由于</str>
+  </line>
+  <line id="19" right="2720">
+    <str id="26">合同软件安全引起的事故时,卖方赔偿买方及相关用户因此所发生的损失。</str>
+  </line>
+  <line id="20" right="2754">
+    <str id="27">2.5在本合同生之日起至合同软件通过验收、投入正常运行后</str>
+    <str id="28">1</str>
+    <str id="29">月内,</str>
+  </line>
+  <line id="21" right="2794">
+    <str id="30">卖方应负责免费向买方提供与合同软件有关的新的和/或改进的运行经验、技术</str>
+  </line>
+  <line id="22" right="1589">
+    <str id="31">开发和安全方面的所有资料及信息。</str>
+  </line>
+  <line id="23" right="1123">
+    <str id="32">第3条</str>
+    <str id="33">交付</str>
+  </line>
+  <line id="24" right="1897">
+    <str id="34">3.1卖方应按下述进度计交付合同软件:</str>
+  </line>
+  <line id="25" right="1337">
+    <str id="35">1</str>
+  </line>
+  <line id="26" right="1934">
+    <str id="36">3.2交付地点:</str>
+    <str id="37">1</str>
+  </line>
+  <line id="27" right="2793">
+    <str id="38" />
+    <str id="39">3.3卖方如未能按照上述进度计交付合同软件的,应按合同约定承担违约</str>
+  </line>
+  <line id="28" right="762">
+    <str id="40">责任。</str>
+  </line>
+  <line id="29" right="1503">
+    <str id="41">第4条</str>
+    <str id="42">安装、调试及验收</str>
+  </line>
+  <line id="30" right="2799">
+    <str id="43">4.1</str>
+    <str id="44">合同软件的安装由卖方根据合同约定及技术文件规定的标准、方法和程</str>
+  </line>
+  <line id="31" right="2800">
+    <str id="45">序进行。卖方对合同软件的调试和性能及合同约定的质量、安全和各项保证值</str>
+    <str id="46" />
+  </line>
+  <line id="32" right="952">
+    <str id="47">负全部责任。</str>
+  </line>
+  <line id="33" right="1968">
+    <str id="48">4.2合同软件安装完毕后,</str>
+    <str id="49">卖方应负责调试。</str>
+  </line>
+  <line id="34" right="2803">
+    <str id="50">4.3合同软件安装调试完毕且试运行结束后,符合合同约定的技术标准和功</str>
+  </line>
+  <line id="35" right="2805">
+    <str id="51">指要求的,</str>
+    <str id="52">买方将向卖方签发合同软件验收证书。买方向卖方签发合同软件验收</str>
+  </line>
+  <line id="36" right="2096">
+    <str id="53">证书并不减轻或免除后续使用过程中卖方的相关责任。</str>
+  </line>
+  <line id="37" right="2807">
+    <str id="54">4.4如果经验收,</str>
+    <str id="55">合同软件未能达到约定保证值或功能要求的,</str>
+    <str id="56">式方应按照</str>
+  </line>
+  <line id="38" right="1269">
+    <str id="57">合同约定承担违约责任。</str>
+  </line>
+  <line id="39" right="1243">
+    <str id="58">第5录</str>
+    <str id="59">技术服务</str>
+  </line>
+  <line id="40" right="2810">
+    <str id="60">5.1卖方应在合同执行期间,指定项目经理负责与方协调处理本合同有</str>
+  </line>
+  <line id="41" right="2810">
+    <str id="61">关的执行工作。当发现技术问题或就技术问题发生争议时,双方应分析原因、分</str>
+  </line>
+  <line id="42" right="2811">
+    <str id="62">清责任并协商解决方案。自合同软件的调试、试运行到验收期间的工作进应、</str>
+  </line>
+  <line id="43" right="1679">
+    <str id="63">2</str>
+  </line>
+</Document>
